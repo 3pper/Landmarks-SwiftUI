@@ -4,7 +4,9 @@
 
 Information about some places in our world
 
-<img src="https://github.com/3pper/ARDicee/blob/main/IMG_5014.PNG" width="500">
+<img src="https://github.com/3pper/Landmarks-SwiftUI/blob/main/Documents/image1.png" width="500">
+
+<img src="https://github.com/3pper/Landmarks-SwiftUI/blob/main/Documents/image2.png" width="500">
 
 ## How to install 
 
