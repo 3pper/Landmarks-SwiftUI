@@ -28,6 +28,9 @@ struct ContentView: View {
                 }
                 .tag(Tab.list)
         }
+        .refreshable {
+            
+        }
     }
 }
 
