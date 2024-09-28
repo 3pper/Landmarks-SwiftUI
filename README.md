@@ -8,6 +8,10 @@ Information about some places in our world
 
 <img src="https://github.com/3pper/Landmarks-SwiftUI/blob/main/Documents/image2.png" width="500">
 
+<img src="https://github.com/3pper/Landmarks-SwiftUI/blob/main/Documents/image3.png" width="500">
+
+<img src="https://github.com/3pper/Landmarks-SwiftUI/blob/main/Documents/image4.png" width="500">
+
 ## How to install 
 
 ```
